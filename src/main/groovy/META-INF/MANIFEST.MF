@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+com.timak31.Main-Class: com.timak31.Main
+
