@@ -1,4 +1,4 @@
-package com.timak31.snake;
+package com.company.snake;
 
 import javax.swing.*;
 import java.awt.*;

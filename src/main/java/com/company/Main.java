@@ -1,6 +1,6 @@
-package com.timak31;
+package com.company;
 
-import com.timak31.snake.GameplayColl;
+import com.company.snake.GameplayColl;
 
 import javax.swing.*;
 import java.awt.*;
